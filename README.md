@@ -14,7 +14,7 @@ Plataforma web SaaS desarrollada para emprendedores gastronómicos, orientada a 
 
 **Stack:** React, Tailwind CSS, Node.js, Firebase y Cloud Functions.
 
-🔗 [Repositorio](https://github.com/Andres-Villante/mi-gestion-contable)
+🔗 [Repositorio](https://github.com/Andres-Villante/mi-gestion-contable-app)
 
 ### Valkyr Games
 

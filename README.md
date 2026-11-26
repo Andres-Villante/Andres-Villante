@@ -10,6 +10,8 @@ Actualmente desarrollo proyectos propios, continúo ampliando mis conocimientos 
 
 Plataforma web SaaS desarrollada para emprendedores gastronómicos, orientada a la gestión de insumos, recetas, costos, ventas y rentabilidad. Utilizada por clientes reales.
 
+🌐 [Mi Gestión Contable](https://migestioncontable.com.ar)
+
 **Stack:** React, Tailwind CSS, Node.js, Firebase y Cloud Functions.
 
 🔗 [Repositorio](https://github.com/Andres-Villante/mi-gestion-contable)
@@ -46,11 +48,12 @@ Videojuego de puzzles 3D centrado en el ensamblaje de piezas mecánicas.
 
 ## 🎓 Formación académica
 
+- Ingeniería en Informática — UNLaM (comienzo en 2027).
 - Ingeniería Informática — ITBA (3 años cursados).
 - Técnico Electromecánico — Colegio Emaús.
 
 ## 📫 Contacto
 
 - 📧 [Correo electrónico](mailto:andres.villante@gmail.com)
-- 🌐 [Valkyr Games](https://valkyrgames.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andres-villante-berteel-52b8a6233/)
 - 📍 Buenos Aires, Argentina.
